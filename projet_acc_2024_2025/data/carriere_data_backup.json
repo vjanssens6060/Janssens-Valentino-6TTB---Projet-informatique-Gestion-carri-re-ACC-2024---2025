@@ -1,0 +1,20 @@
+{
+    "nom_pilote": "Jean Dupont",
+    "equipe": "Team A",
+    "voiture_preferee": "Porsche GT3RS",
+    "courses": [
+        {
+            "circuit": "Monza",
+            "classement": 1,
+            "meilleur_temps": 90.5,
+            "type_course": "qualif"
+        },
+        {
+            "circuit": "Spa",
+            "classement": 3,
+            "meilleur_temps": 120.3,
+            "type_course": "endurance"
+        }
+    ],
+    "reglages": []
+}
