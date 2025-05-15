@@ -1,0 +1,52 @@
+{
+    "nom_pilote": "Max Verstappen",
+    "equipe": "Verstappen.com",
+    "voiture_preferee": "Porsche GT3 RS",
+    "courses": [
+        {
+            "id": "b89f2969-ccf4-4f80-aecb-9fe0f200e527",
+            "circuit": "Imola",
+            "classement": "2",
+            "meilleur_temps": "1:43.567",
+            "type_course": "Course",
+            "duree_ou_tours": null,
+            "voiture_utilisee": "Ferrari 296 GT3",
+            "date": "2025-05-10",
+            "meteo": "sec",
+            "strategie": "Deux arr\u00eats"
+        }
+    ],
+    "reglages": [
+        {
+            "voiture": "Ferrari 296 GT3",
+            "circuit": "",
+            "aileron_avant": 25.0,
+            "aileron_arriere": 20.0,
+            "pression_pneus_av_gauche": 24.0,
+            "pression_pneus_av_droit": 25.0,
+            "pression_pneus_ar_gauche": 24.0,
+            "pression_pneus_ar_droit": 25.0,
+            "suspension_avant": 15.0,
+            "suspension_arriere": 15.0,
+            "hauteur_caisse": 10.0,
+            "diff": 0,
+            "rapports_rapides": 0
+        }
+    ],
+    "historique": {
+        "changements": [
+            {
+                "date": "2025-05-15",
+                "type": "voiture",
+                "ancienne_valeur": "Voiture par d\u00e9faut",
+                "nouvelle_valeur": "Ferrari 296 GT3"
+            },
+            {
+                "date": "2025-05-15",
+                "type": "voiture",
+                "ancienne_valeur": "Ferrari 296 GT3",
+                "nouvelle_valeur": "Porsche GT3 RS"
+            }
+        ]
+    }
+}
